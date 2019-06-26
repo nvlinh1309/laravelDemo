@@ -32,7 +32,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 - **[Vehikl](https://vehikl.com/)**    123
-- **[Tighten Co.](https://tighten.co)**
+- **[Tighten Co.](https://tighten.co)** 456
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
 - **[Cubet Techno Labs](https://cubettech.com)**
